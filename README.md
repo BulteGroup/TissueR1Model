@@ -24,3 +24,8 @@ This is the accompanying code for our manuscript, "Modelling the effect of hyper
 <b>Step 3. Calculate ΔR1 of each compartment.</b> Knowing the ΔPO<sub>2</sub> in each compartment allows the ΔR1<sub>T</sub> to be calculated using the r1Ox (calculated with respect to B0 using a model published by Bluemke et al.(https://doi.org/10.1002/nbm.4625)); the ΔR1 of each blood compartment to be calculated using a Blood R1 model published by Bluemke et al. (https://doi.org/10.1002/jmri.27938). 
 
 <b>Step 4. Calculate ΔR1 of voxel.</b> Once the ΔR1 in each compartment is calculated, we use the set blood volume fraction (BV) to calculate the resulting ΔR1 of the voxel (ΔR1<sub>voxel</sub>). 
+
+![](Figure1.png)
+
+--------------
+![](Figure2.png)
