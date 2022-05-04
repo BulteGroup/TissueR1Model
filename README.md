@@ -11,11 +11,12 @@ Institute of Biomedical Engineering, Department of Engineering Sciences, Univers
 
 This is the accompanying code for our manuscript, "Modelling the effect of hyperoxia on the spin-lattice relaxation rate R1 of tissues", where we present a 3-compartment model for estimating the hyperoxia-induced changes in R1 of tissues depending on B0, SO<sub>2</sub>, blood volume, hematocrit, oxygen extraction fraction, and changes in blood and tissue PO<sub>2</sub>. 
 
+In our demonstration of the model (see manuscript), the resulting ΔR1 are consistent with reported literature OE-MRI results in a variety of tissues. This model has been designed to be easy for researchers to tailor to their tissue of interest by substituting their preferred model for tissue oxygen diffusion and consumption.
 
-<b>Please see the main manuscript for full theory explanation and details.</b>
+<i>Please see the main manuscript for full theory explanation and details.</i>
 
 ----------------------------
-
+## About this notebook
 
 ### The model can be conceptually separated into 4 steps: 
 
